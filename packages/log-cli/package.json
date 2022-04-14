@@ -1,6 +1,6 @@
 {
-  "name": "log-cli-test1233",
-  "version": "1.0.2",
+  "name": "log-cli-test-insoo",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "insoo <insoo2846@gmail.com>",
   "homepage": "https://github.com/insoojang/mono-repo-test#readme",
@@ -18,12 +18,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/insoojang/mono-repo-test.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/insoojang/mono-repo-test/issues"
   },
   "dependencies": {
     "commander": "^9.1.0",

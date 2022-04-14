@@ -1,6 +1,6 @@
 {
-  "name": "log-core-test1233",
-  "version": "1.0.2",
+  "name": "log-core-test-insoo",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "insoo <insoo2846@gmail.com>",
   "license": "ISC",
@@ -12,6 +12,10 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insoojang/mono-repo-test.git"
+  },
   "dependencies": {
     "chalk": "^5.0.1"
   }
