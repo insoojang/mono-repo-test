@@ -1,0 +1,14 @@
+{
+  "version": "independent",
+  "private": true,
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "name": "lerna-test",
+  "dependencies": {}
+}
