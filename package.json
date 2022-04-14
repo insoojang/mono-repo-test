@@ -8,6 +8,5 @@
   "devDependencies": {
     "lerna": "^3.20.2"
   },
-  "name": "lerna-test",
-  "dependencies": {}
+  "name": "lerna-test1233"
 }
